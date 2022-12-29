@@ -28,7 +28,7 @@ Você pode acessar a plataforma através do link abaixo:
 
 Você pode visualizar o layout original do projeto no Figma através do link abaixo:
 
-- Layout: (https://www.figma.com/community/file/1187422022288947321)
+- <img align="center" alt="ana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Layout: https://www.figma.com/community/file/1187422022288947321
 
 ##
 
