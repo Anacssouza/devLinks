@@ -15,7 +15,7 @@ Plataforma de estilo "Linktree" construída durante um dos programas gratuitos d
 
 Você pode acessar a plataforma através do link abaixo:
 
-- Deploy: https://anacssouza.github.io/devLinks/
+- Deploy: https://devlinksac.vercel.app/
 
 
 <h2> ✨ Tecnologias utilizadas </h2>
